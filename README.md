@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Davinder's Github stats](https://github-readme-stats.vercel.app/api?username=nirmeet-baweja&theme=blueberry&show_icons=true&count_private=true)
+![Nirmeet's Github stats](https://github-readme-stats.vercel.app/api?username=nirmeet-baweja&theme=blueberry&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmeet-baweja&langs_count=8&theme=blueberry)](https://github.com/nirmeet-baweja/github-readme-stats)
 <!--
