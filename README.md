@@ -3,7 +3,16 @@
   Hey! Nice to see you.
 </h1>
 <p>Welcome to my page! </br> I'm <b>Nirmeet</b>.</p>
-<h3>Things I code with</h3>
+
+<h2>A little about me</h2>
+
+- 🔭 I’m currently working with [CodeYourFuture](https://github.com/CodeYourFuture)
+- 🌱 I’m currently learning Machine Learning & AI
+- 📫 You can reach me at: [nirmeet.baweja@gmail.com](mailto:nirmeet.baweja@gmail.com)
+- 👤 My LinkedIn profile: [Nirmeet Baweja](https://linkedin.com/in/nirmeet-baweja)
+
+
+<h2>Things I code with</h2>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-EE4C2C?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-40AEF0?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -37,15 +46,37 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> --> 
 </p>
 
-- 🔭 I’m currently working with [CodeYourFuture](https://github.com/CodeYourFuture)
-- 🌱 I’m currently learning Machine Learning & AI
-- 📫 You can reach me at: [nirmeet.baweja@gmail.com](mailto:nirmeet.baweja@gmail.com)
-- 👤 My LinkedIn profile: [Nirmeet Baweja](https://linkedin.com/in/nirmeet-baweja)
+## 📊 Github Stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nirmeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nirmeet-baweja&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nirmeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmeet-baweja&langs_count=8&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <strong>Note:</strong>Top languages is only a metric of the languages my github code/repositories consist of. Therefore, it doesn't reflect my experience or skill level
+  accurately.
+</details>
+
+<details>
+  <summary> :zap: Recent Activity on GitHub</summary>
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p align="center">
+    <a href="https://github.com/nirmeet-baweja/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmeet-baweja&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    </a>
+    <br/>
+    <strong> Note: </strong> The streak only takes into account public contributions on GitHub, and therefore is not an accurate measure of how often I code.
+  </p>
+</details>
+
+
+<!--
 ![Nirmeet's Github stats](https://github-readme-stats.vercel.app/api?username=nirmeet-baweja&theme=blueberry&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmeet-baweja&langs_count=8&theme=blueberry)](https://github.com/nirmeet-baweja/github-readme-stats)
-
+-->
 
 <!--
 **nirmeet-baweja/nirmeet-baweja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
