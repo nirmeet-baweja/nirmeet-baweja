@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working with [CodeYourFuture](https://github.com/CodeYourFuture)
 - 🌱 I’m currently learning Machine Learning & AI
-- 📫 You can reach me at: [nirmeet.baweja@gmail.com](mailto:nirmeet.baweja@gmail.com)
 - 👤 My LinkedIn profile: [Nirmeet Baweja](https://linkedin.com/in/nirmeet-baweja)
 
 
